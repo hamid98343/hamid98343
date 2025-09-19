@@ -1,4 +1,4 @@
-### Hi there 👋, my name is MD HAMIDUR RAHMAN
+### Hi there 👋, My Name is MD HAMIDUR RAHMAN
 
 
 15+ Yrs experienced Result oriented Professional including Program Management in IT and Telecom, 
