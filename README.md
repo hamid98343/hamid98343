@@ -8,4 +8,4 @@
 
 
 🙋‍♂️ About me
-  I'm from the CANADA ,Currently in the Eastern Standard Time Zone 🌎. currentily working in ITO Project manageent in DXC [(https://dxc.com/us/en)](https://dxc.com/us/en) I'm a huge fan of cloud computing specially in AWS
+  I'm from the CANADA ,Currently in the Eastern Standard Time Zone 🌎. and working in ITO Project manageent in DXC [(https://dxc.com/us/en)](https://dxc.com/us/en) I'm a huge fan of cloud computing specially in AWS
