@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamidur Rahman</h1>
-<h2 align="center">IT Project & Program management professional with 15+ Years of experiences in Cloud and network infrastructure</h2>
+<h2 align="center">IT Project & Program Management Professional with 15+ Years of experiences in Cloud and network infrastructure</h2>
 
 - 🔭 I’m currently working on [ITO Project and Program](https://dxc.com/us/en)
 
@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **No harm to think Big Dream!**
 
-- 🙋‍♂️ life is short time and keep Smiling
+- 🙋‍♂️ life is short and keep Smiling
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
