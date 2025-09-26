@@ -10,13 +10,12 @@
 🙋‍♂️ About me
   I'm from the CANADA ,Currently in the Eastern Standard Time Zone 🌎. and working in ITO Project manageent in DXC [(https://dxc.com/us/en)](https://dxc.com/us/en) I'm a huge fan of cloud computing specially in AWS
 
-
 <h1 align="center">Hi 👋, I'm Hamidur Rahman</h1>
-<h3 align="center">IT Project and Program management professional with 15+ Years of experiences in Cloud and network infrastructure</h3>
+<h3 align="center">IT Project & Program management professional with 15+ Years of experiences in Cloud and network infrastructure</h3>
 
 - 🔭 I’m currently working on [ITO Project and Program](https://dxc.com/us/en)
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Generative AI & Cloud world :)**
 
 - 👯 I’m looking to collaborate on [Infovaly](https://infovaly.com/)
 
@@ -24,16 +23,17 @@
 
 - 📝 I regularly write articles on [CIO.com](CIO.com)
 
-- 📫 How to reach me **hamidur@gmail.com**
+- 💬 Ask me about **Currently living in the Eastern Standard Time Zone**
+
+- 📫 How to reach me **https://www.linkedin.com/in/talkhamid/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/talkhamid/](https://www.linkedin.com/in/talkhamid/)
 
-- ⚡ Fun fact **No hard to think Big Dream!**
+- ⚡ Fun fact **No harm to think Big Dream!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/talkhamid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talkhamid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@travelarounds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@travelarounds" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
